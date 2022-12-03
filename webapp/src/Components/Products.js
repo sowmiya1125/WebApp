@@ -25,6 +25,7 @@ function Products(){
         }
     }
     return(
+        
         <div>
             <Box sx={{display:"flex",margin:2}}>
             <Grid item xs={10}>
